@@ -41,7 +41,7 @@ mkdir -p ~/privasea/config && cd ~/privasea
 ```
 - Get the keystore file
 ```bash
-docker run -it -v "/privasea/config:/app/config" privasea/acceleration-node-beta:latest ./node-calc new_keystore
+docker run --rm -it -v "$HOME/privasea/config:/app/config" privasea/acceleration-node-beta:latest ./node-calc new_keystore
 ```
 - Note:
 1. The program will prompt you to enter a password, please remember this password for future use.
