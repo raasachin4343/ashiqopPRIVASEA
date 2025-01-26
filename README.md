@@ -1,6 +1,6 @@
 # Privasea_Privanetix Node by @ColonyAirdrops
 
-- Video: [Youtube]()
+- Video: [Youtube](https://youtu.be/vr16uG_kCiU)
 ---
 
 ## System Requirements
