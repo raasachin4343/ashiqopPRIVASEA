@@ -1,7 +1,5 @@
-# Privasea_Privanetix Node by @ColonyAirdrops
+# Privasea_Privanetix Node by @ashiqop
 
-- Video: [Youtube](https://youtu.be/vr16uG_kCiU)
----
 
 ## System Requirements
 ![image](https://github.com/user-attachments/assets/377ad007-e416-442f-b01c-415158cf6c29)
